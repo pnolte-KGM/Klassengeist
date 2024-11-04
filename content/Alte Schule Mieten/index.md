@@ -25,4 +25,4 @@ Alle Waren werden angeliefert und wieder abgeholt; nicht Verzehrtes wird verrech
 9.	Der Mieter bestätigt ferner, dass ihm die wesentlichen Punkte der Benutzungs- und Hausordnung des Gebäudes „Alte Schule“ zur Kenntnis gebracht worden sind.
 
 
-[Mietvertrag](/Mietvertrag_AlteSchule.pdf)
+[Mietvertrag](Mietvertrag_AlteSchule.pdf)

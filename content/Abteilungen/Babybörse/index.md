@@ -5,7 +5,7 @@ title = 'Babybörse Meerhof – knapp 25 Jahre ehrenamtliches Engagement für ei
 +++
 
 
-![Das Team Babybörse](/images/Babyboerse/Team_Babybörse.jpg "Das Team Babybörse")
+![Das Team Babybörse](Team_Babybörse.jpg "Das Team Babybörse")
 
 Es begann als kleine Idee, damals im Jahr 2000, als die damaligen Teilnehmerinnen der Krabbelgruppe Meerhof, wie zum Beispiel Gabi Rasche und Birgit Lülfs, nach zahlreichen Besuchen auf den Börsen im Umkreis dachten: „Das können wir auch!“.
 

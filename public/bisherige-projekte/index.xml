@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Bisherige Projekte on Klassengeist Meerhof e.V.</title>
-		<link>http://localhost:1313/bisherige-projekte/</link>
+		<link>http://localhost:1313/Klassengeist/bisherige-projekte/</link>
 		<description>Recent content in Bisherige Projekte on Klassengeist Meerhof e.V.</description>
 		<generator>Hugo 0.136.5</generator>
 		<language>de-de</language>
 		<lastBuildDate>Fri, 01 Nov 2024 18:09:24 +0100</lastBuildDate>
-		<atom:link href="http://localhost:1313/bisherige-projekte/index.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="http://localhost:1313/Klassengeist/bisherige-projekte/index.xml" rel="self" type="application/rss+xml"/>
 	</channel>
 </rss>

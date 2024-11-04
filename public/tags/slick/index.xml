@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Slick on Klassengeist Meerhof e.V.</title>
-		<link>http://localhost:1313/tags/slick/</link>
+		<link>https://pnolte-kgm.github.io/Klassengeist/tags/slick/</link>
 		<description>Recent content in Slick on Klassengeist Meerhof e.V.</description>
 		<generator>Hugo 0.136.5</generator>
 		<language>de-de</language>
 		<lastBuildDate>Thu, 05 Jan 2023 23:42:05 +0100</lastBuildDate>
-		<atom:link href="http://localhost:1313/tags/slick/index.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://pnolte-kgm.github.io/Klassengeist/tags/slick/index.xml" rel="self" type="application/rss+xml"/>
 		<item>
 			<title>Slick Showcase</title>
-			<link>http://localhost:1313/abteilungen/slick-showcase/</link>
+			<link>https://pnolte-kgm.github.io/Klassengeist/abteilungen/slick-showcase/</link>
 			<pubDate>Thu, 05 Jan 2023 23:42:05 +0100</pubDate>
-			<guid isPermaLink="true">http://localhost:1313/abteilungen/slick-showcase/</guid>
+			<guid isPermaLink="true">https://pnolte-kgm.github.io/Klassengeist/abteilungen/slick-showcase/</guid>
 			<description>&lt;p&gt;This is some example page to show some supported markup for the
 &lt;a href=&#34;https://github.com/spookey/slick&#34;&gt;Slick&lt;/a&gt; Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;

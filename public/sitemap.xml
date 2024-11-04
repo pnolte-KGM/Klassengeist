@@ -2,69 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/abteilungen/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/abteilungen/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/abteilungen/babyb%C3%B6rse/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/abteilungen/babyb%C3%B6rse/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bisherige-projekte/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/impressum/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/geplante-projekte/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/meerhofer-vereine/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/abteilungen/dorfzeitung/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meerhofer-vereine/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/termine/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/formulare/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/abteilungen/tortenbuch/</loc>
     <lastmod>2024-11-01T18:09:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/abteilungen/dorfzeitung/</loc>
-    <lastmod>2024-11-01T18:09:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/vortstellung-nutzer-alte-schule/</loc>
-    <lastmod>2024-11-01T18:09:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/abteilungen/team-gr%C3%BCn/</loc>
-    <lastmod>2024-11-01T18:09:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/termine/</loc>
-    <lastmod>2024-11-01T18:09:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/abteilungen/tortenbuch/</loc>
-    <lastmod>2024-11-01T18:09:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/%C3%BCber-uns/</loc>
-    <lastmod>2024-11-01T18:09:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/categories/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/tags/hugo/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/showcase/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/categories/showcase/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/slick/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/tags/slick/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/abteilungen/slick-showcase/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/abteilungen/slick-showcase/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/tags/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/theme/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/tags/theme/</loc>
     <lastmod>2023-01-05T23:42:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/alte-schule-mieten/</loc>
+    <loc>https://pnolte-kgm.github.io/Klassengeist/alte-schule-mieten/</loc>
   </url>
 </urlset>

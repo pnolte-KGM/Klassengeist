@@ -21,6 +21,7 @@ showmetadates: true
 showmetalinks: true
 ---
   
+  
 This is some example page to show some supported markup for the
 [Slick](https://github.com/spookey/slick) Hugo theme.
 <!--more-->
